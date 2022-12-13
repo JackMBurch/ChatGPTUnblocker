@@ -3,7 +3,7 @@
 // @version  1
 // @grant    none
 // @author       Jack Burch
-// @description  Easily export the whole ChatGPT conversation history for further analysis or sharing.
+// @description  Easily bypass clientside ChatGPT content restrictions
 // @match        https://chat.openai.com/chat
 // ==/UserScript==
 var keepgoing = true;
